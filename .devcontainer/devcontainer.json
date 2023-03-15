@@ -1,5 +1,5 @@
 {
-	"name": "Rust",
+	"name": "SPI_Laser_EMU",
 	"build": { "dockerfile": "Dockerfile" },
 	"features": {
 	},
